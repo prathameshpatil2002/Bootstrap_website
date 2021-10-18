@@ -1,4 +1,4 @@
-&nbsp<img src="img\Annotation 2021-10-18 121204.png">
+<img src="img\Annotation 2021-10-18 121204.png">
 
 # Welcome! 👋
 
